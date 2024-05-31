@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636714813 source:c:\users\משתמש\desktop\projects\c\hw1q1\hw1q1.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
